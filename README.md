@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **r.ajayender9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10rykScGTAMKEIYmPVOijlNYJtZ0BBhTp/view?usp=sharing](resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10rykScGTAMKEIYmPVOijlNYJtZ0BBhTp/view?usp=sharing))
 
 - ⚡ Fun fact **I love exploring new technologies and applying them to solve interesting problems.**
 
