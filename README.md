@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects related to AI and data science**
 
-- 📝 I regularly write articles on [https://medium.com/@r.ajayender9](https://medium.com/@r.ajayender9)
+- 📝 I regularly write articles on [https://medium.com/@r.ajayender9]((https://medium.com/@pavangajjela20))
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Visualization.**
 
