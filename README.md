@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajayender Ravula</h1>
-<h3 align="center">Welcome to my GitHub profile!I have recently completed Data Scientist Intern from Voziq.Ai Pvt Limited. I'm a passionate Data Scientist with a strong background in developing and deploying data-driven solutions. Here’s a bit about me:</h3>
+<h1 align="center">Hi 👋, I'm Pavan Gajjela</h1>
+<h3 align="center">Welcome to my GitHub profile!I have recently completed Data Scientist Intern from Innomatics Research Labs. I'm a passionate Data Scientist with a strong background in developing and deploying data-driven solutions. Here’s a bit about me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayender-5&label=Profile%20views&color=0e75b6&style=flat" alt="ajayender-5" /> </p>
 
