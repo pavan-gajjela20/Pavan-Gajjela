@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects related to AI and data science**
 
-- 📝 I regularly write articles on [https://medium.com/@r.ajayender9]((https://medium.com/@pavangajjela20))
+- 📝 I regularly write articles on [https://medium.com/@pavangajjela20]((https://medium.com/@pavangajjela20))
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Visualization.**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajayender75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayender75" height="30" width="40" /></a>
-<a href="https://medium.com/@r.ajayender9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@r.ajayender9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavan-gajjela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayender75" height="30" width="40" /></a>
+<a href="https://medium.com/@pavangajjela20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@r.ajayender9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
