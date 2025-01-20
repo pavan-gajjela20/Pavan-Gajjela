@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, and Data Visualization.**
 
-- 📫 How to reach me **r.ajayender9@gmail.com**
+- 📫 How to reach me **Pavangajjela20@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10rykScGTAMKEIYmPVOijlNYJtZ0BBhTp/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10rykScGTAMKEIYmPVOijlNYJtZ0BBhTp/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring new technologies and applying them to solve interesting problems.**
 
